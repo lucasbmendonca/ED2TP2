@@ -1,0 +1,15 @@
+nm0370564	Sessue Hayakawa	M
+nm1352627	Anup Kumar	M
+nm0250548	Efgan Efekan	M
+nm0439784	Girish Karnad	M
+nm0785281	Snooky Serna	F
+nm0000272	Fanny Ardant	F
+nm0950690	Yang Yueh	M
+nm0451396	Vinod Khanna	M
+nm0432007	Curd Jürgens	M
+nm0000313	Jeff Bridges	M
+nm2372047	En'ichirô Jitsukawa	M
+nm0784884	Rade Serbedzija	M
+nm0212234	Carl de Vogt	M
+nm0621418	V.K. Naresh	M
+nm0559674	Takeo Matsuura	?
